@@ -1,39 +1,37 @@
-# Desafio de código Mobile
+# Mobile challenge
 
-#### Nesse desafio serão avaliados
-* Seu domínio em Flutter
-* Fluxo de navegação
-* Forma de organizar o código
+#### In this challenge, the following will be evaluated:
+* Your proficiency in Flutter
+* Navigation flow
+* Code organization
 
-Boa sorte e obrigado por participar!
+## 🚨 Game rules
 
-## 🚨 As regras do jogo
+1. Your project should be built using Flutter;
 
-1. Seu projeto deverá ser construído utilizando Flutter;
+2. The application should be offline first;
 
-2. O aplicativo de deverá ser offline first;
+4. Your project should be built using the layout provided in the test description;
 
-4. Seu projeto deverá ser construído utilizando o layout disponibilizado na descrição do teste;
+5. Create a README file that explains how to run the project.
 
-5. Crie um arquivo README explicando como executar o projeto.
+## 🎁 Bonus
 
-## 🎁 Bônus
-
-Esses itens não são obrigatórios, porém desejados.
+These items are not mandatory, but desired.
 
 * Clean Code
-* Arquitetura MVVM
-* Testes automatizados
+* MVVM architecture
+* Automated tests
 
-## 🖥 O Desafio
+## 🖥 The challenge
 
-Você deverá construir um projeto utilizando o layout proposto:
+You should build a project using the proposed layout:
 
-* Listagem de tarefas com scroll infinito;
-* Listagem de tarefas finalizadas; 
-* Criar tarefa; 
-* Os dados deverão ser salvo local utilizando um banco de dados (sqlite, Hive, etc...);
+* Task listing with infinite scroll;
+* Listing of completed tasks;
+* Create task; 
+* Data should be saved locally using a database (sqlite, Hive, etc...);
 
 ### Layout: 
 
-O layout está disponível no link: [Protótipo](https://www.figma.com/proto/RPnpIHgvIKobI7LieqNCcw/Taski-To-Do?node-id=12-387&p=f&t=l4R38GZ4q3qrv2XW-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+The layout is available at link: [Prototype](https://www.figma.com/proto/RPnpIHgvIKobI7LieqNCcw/Taski-To-Do?node-id=12-387&p=f&t=l4R38GZ4q3qrv2XW-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
